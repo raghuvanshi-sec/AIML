@@ -77,9 +77,9 @@ graph TD
     DataColMod --> DC2["scraped_data/ & cleaned_data/"]:::file
 
     %% Supervised ML Details
-    MLMod --> ML1["linerar_regression.ipynb"]:::file
+    MLMod --> ML1["HousePrice_Prediction.ipynb & linerar_regression.ipynb"]:::file
     MLMod --> ML2["medical-cost-personal-datasets.ipynb"]:::file
-    MLMod --> ML3["insurance.csv"]:::file
+    MLMod --> ML3["Datasets: HousePricePridiction.csv & insurance.csv"]:::file
 ```
 
 ### 🗂️ Detailed Directory Breakdown
@@ -93,7 +93,7 @@ graph TD
 | **`Pandas/`** | Data wrangling, tabular manipulation & cleaning | `pandas_tutorial.ipynb`, `pandas_tutorial2.ipynb`, CSV & JSON datasets |
 | **`Matplotlib/`** | Data visualization & statistical plotting | Matplotlib & Seaborn notebooks, `sample_lineplot.py` |
 | **`Data_Collection/`** | Web scraping & automated ETL pipelines | `data_collection.ipynb`, `scraping_activity.ipynb`, `scraped_data/`, `cleaned_data/` |
-| **`Supervised ML/`** | Supervised learning algorithms & case studies | `linerar_regression.ipynb`, `medical-cost-personal-datasets.ipynb`, `insurance.csv` |
+| **`Supervised ML/`** | Supervised learning algorithms & case studies | `HousePrice_Prediction.ipynb`, `linerar_regression.ipynb`, `medical-cost-personal-datasets.ipynb`, `HousePricePridiction.csv`, `insurance.csv` |
 
 ---
 
