@@ -1,0 +1,10 @@
+{
+    "name":"Satyam",
+    "isStudent":true,
+    "age":21,
+    "address":{
+       "city":"Patna",
+       "pin":803101
+    },
+    "courses":["AI","ML","DL"]
+}
